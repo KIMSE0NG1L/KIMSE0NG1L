@@ -55,10 +55,6 @@ Currently Building:
 
 <img src="https://skillicons.dev/icons?i=nodejs,nextjs,postgres,supabase,firebase"/>
 
-### AI
-
-<img src="https://skillicons.dev/icons?i=openai,ollama,claude"/>
-
 ### Tools
 
 <img src="https://skillicons.dev/icons?i=git,github,figma,vscode,vercel"/>
