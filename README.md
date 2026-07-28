@@ -45,11 +45,11 @@ Currently Building:
 
 ### Languages
 
-<img src="https://skillicons.dev/icons?i=dart,ts,js,python"/>
+<img src="https://skillicons.dev/icons?i=dart,ts,js,python,c"/>
 
 ### Frontend
 
-<img src="https://skillicons.dev/icons?i=flutter,react,vite,tailwind"/>
+<img src="https://skillicons.dev/icons?i=flutter,react,vite"/>
 
 ### Backend
 
@@ -57,7 +57,7 @@ Currently Building:
 
 ### AI
 
-<img src="https://skillicons.dev/icons?i=openai"/>
+<img src="https://skillicons.dev/icons?i=openai,ollama,claude"/>
 
 ### Tools
 
@@ -107,11 +107,8 @@ Currently Building:
 # 🌱 Currently Learning
 
 - 🤖 AI Agents
-- 🧠 Retrieval-Augmented Generation (RAG)
-- ⚡ Model Context Protocol (MCP)
 - ☁️ Supabase
 - 📱 Flutter
-- 🚀 Scalable SaaS Architecture
 
 <div align="center">
   
