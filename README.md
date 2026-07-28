@@ -23,9 +23,6 @@
 ```yaml
 Name: Seongil Kim
 
-Role:
-  AI Product Builder
-
 Interested In:
   - AI
   - Flutter
@@ -38,9 +35,6 @@ Currently Building:
   - AI Services
   - Mobile Apps
   - Web Platforms
-
-Motto:
-  "Ideas are cheap. Shipping is everything."
 ```
 
 ---
@@ -59,7 +53,7 @@ Motto:
 
 ### Backend
 
-<img src="https://skillicons.dev/icons?i=nodejs,postgres,supabase,firebase"/>
+<img src="https://skillicons.dev/icons?i=nodejs,nextjs,postgres,supabase,firebase"/>
 
 ### AI
 
@@ -71,18 +65,6 @@ Motto:
 
 </div>
 
----
-
-# 🚀 Featured Projects
-
-| Project | Description | Stack |
-|---------|-------------|-------|
-| 🏝 **Sumtagi** | AI-powered island travel platform | React · Flutter · Supabase |
-| 📱 **NEARO** | Anonymous matching application | Flutter · Firebase |
-| 🎯 **JTAC Trainer** | CAS training simulator | Flutter |
-| 🤖 **AI Experiments** | AI Agents / RAG / MCP | Python |
-
----
 
 # 📊 GitHub Analytics
 
@@ -131,26 +113,8 @@ Motto:
 - 📱 Flutter
 - 🚀 Scalable SaaS Architecture
 
----
-
-# 🎯 Goals
-
-- 🚀 Launch impactful AI products
-- 📱 Publish more apps
-- 🏆 Win hackathons & competitions
-- 🌏 Build products used worldwide
-- 💡 Keep shipping and learning
-
----
-
 <div align="center">
-
-## 💭 Philosophy
-
-### *"Ideas are cheap. Shipping is everything."*
-
----
-
+  
 ### Thanks for visiting! ⭐
 
 If you enjoy my projects, feel free to ⭐ my repositories.
